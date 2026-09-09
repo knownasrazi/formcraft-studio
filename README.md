@@ -5,6 +5,17 @@
 </div>
 
 ---
+## Demo
+
+![Demo](./public/demo.svg)
+
+**Live:** https://knownasrazi.github.io/formcraft-studio/
+
+> Screenshot is a placeholder — Pages deploys on push to `main`.
+
+---
+
+
 
 # formcraft-studio — Forms crafted, not coded.
 

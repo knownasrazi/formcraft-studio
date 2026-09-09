@@ -26,7 +26,7 @@ formcraft-studio/
 ```
 
 - **React + DnD** — the whole thing
-- **Cream** — #fdfcfa background, #1a1a1a ink
+- **Clean** — #fdfcfa background, #1a1a1a ink
 - **No framework bloat** — you can read every file in 5 minutes
 
 ## Install
